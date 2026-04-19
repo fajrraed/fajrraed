@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Fajr Alhusaynan! <br><br> Data Science Student | AI Enthusiast | Python Developer<br><br>I am a Data Science student based in Riyadh, Saudi Arabia. I am passionate about uncovering insights from data and building intelligent systems.<br><br>Currently, I am focusing on:<br>Computer Vision<br>Machine Learning<br>Data Analysis
+Hi there, I'm Fajr Alhusaynan! <br><br> Data Science Student | AI Enthusiast | Python Developer<br><br>I am a Data Science student based in Riyadh, Saudi Arabia. I am passionate about uncovering insights from data and building intelligent systems.<br><br>Currently, I am focusing on:<br>Data Analysis
 
 
 ## 🌐 Socials:
