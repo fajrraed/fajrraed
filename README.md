@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Fajr Alhusaynan! <br><br> Data Science Student | AI Enthusiast | Python Developer<br><br>I am a Data Science student based in Riyadh, Saudi Arabia. I am passionate about uncovering insights from data and building intelligent systems.<br><br>Currently, I am focusing on:<br>Data Analysis
 
-##🌐 Portfolio: https://fajrraed.github.io
+ ## Portfolio: https://fajrraed.github.io
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fajralhysanan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fajrland28@gmail.com) 
 
